@@ -1,0 +1,20 @@
+
+body{
+    text-align: center;
+    background-image:url(../IMG/galaxia.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.login_button{
+    background-color: blueviolet;
+    padding: 5px;
+    border-radius: 8px;
+    font-size: 1em;
+}
+.login_header{
+    color: bisque;
+    
+}
+
+  
